@@ -13,4 +13,7 @@ Concepts: Multithreading, ThreadPoolExecutor, Parallel Processing
 ### Output
 Producer-Consumer Problem
 The program successfully demonstrates communication and synchronization between the producer and consumer threads using a shared buffer.
-<img width="384" height="299" alt="Screenshot 2026-09-13 164937" src="https://github.com/user-attachments/assets/b8a25f05-9100-4c81-a20a-f4f7e6061496" />
+<img width="806" height="303" alt="image" src="https://github.com/user-attachments/assets/490feb0f-9a4c-4bc7-a373-d2998b4a2652" />
+
+
+
